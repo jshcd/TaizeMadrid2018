@@ -1,0 +1,113 @@
+<resources>
+    <!-- Global -->
+    <string name="app_name">Taizé Madrid 2018</string>
+    <string name="app_title">Encuentro Europeo</string>
+
+    <!-- Navigation -->
+    <string name="navigation_prayers">Oraciones</string>
+    <string name="title_workshops">Talleres</string>
+    <string name="title_map">Mapa</string>
+    <string name="title_proposals">Propuestas</string>
+
+    <!-- Map -->
+    <string name="hint_search_field">Encuentra un lugar&#8230;</string>
+
+    <!-- Workshops -->
+    <string name="stop">Parada</string>
+
+    <string name="date_saturday_29_december">Sábado 29 de diciembre</string>
+    <string name="date_sunday_30_december">Domingo 30 de Diciembre</string>
+
+    <string name="workshop_title_01">Silencio y oración personal.</string>
+    <string name="workshop_description_01">Posibilidad de ser escuchado o de recibir el sacramento de la reconciliación.</string>
+
+    <string name="workshop_title_02">Estemos atentos a la presencia de Cristo en nuestras vidas:</string>
+    <string name="workshop_description_02">conversación sobre la oración con el Cardenal Carlos Osoro, Arzobispo de Madrid, y el hermano Alois, prior de Taizé.</string>
+
+    <string name="workshop_title_03">¿Podemos curarnos de nuestras divisiones internas?</string>
+    <string name="workshop_description_03">Reflexiones sobre la Filocalia, una colección de textos espirituales antiguos de la tradición ortodoxa, con un hermano de Taizé.</string>
+
+    <string name="workshop_title_04">"No está bien tomar el pan de los hijos y echárselo a los perritos" (Jesús de Nazareth).</string>
+    <string name="workshop_description_04">La experiencia de hospitalidad de los primeros cristianos. Reflexión bíblica con un hermano de Taizé.</string>
+
+    <string name="workshop_title_05">Descubre junto a tu Dios el futuro que Él te da – ¿cómo tomar decisiones en la vida?</string>
+    <string name="workshop_description_05">-</string>
+
+    <string name="workshop_title_06">"Imagen de Dios, imagen del hombre." Una meditacíon sobre la fe cristiana a partir de iconos.</string>
+    <string name="workshop_description_06">Con el padre Andrey Kordochkin de la Iglesia ortodoxa rusa.</string>
+
+    <string name="workshop_title_07">"Un corazón grande y dilatado como las arenas del mar."</string>
+    <string name="workshop_description_07">Descubrir la vida de Teresa de Avila, mística y reformadora del siglo de oro español, con Inmaculada Gonzalez Villa y un hermano de Taizé.</string>
+
+    <string name="workshop_title_08">El soplo oriental:</string>
+    <string name="workshop_description_08">cantos y testimonios de cristianos de diversos países del mundo árabe</string>
+
+    <string name="workshop_title_09">¿La religión puede promover la paz mundial?</string>
+    <string name="workshop_description_09">Conversaciones entre una mujer musulmana, una judía y una cristiana</string>
+
+    <string name="workshop_title_10">¿Los cuentos pueden ayudarnos a reconciliarnos con nuestra historia?</string>
+    <string name="workshop_description_10">Presentación de la cuenta cuentos Ana García Castellano y de su trabajo. Solo en castellano.</string>
+
+    <string name="workshop_title_11">Pequeñas fraternidades provisionales:</string>
+    <string name="workshop_description_11">vivir con otros jóvenes varias semanas en el corazón de un barrio, compartir la vida, rezar y participar a des actos de solidaridad.</string>
+
+    <string name="workshop_title_12">La espiritualidad de los cristianos en política. ¿Qué participación? ¿Qué itinerarios?</string>
+    <string name="workshop_description_12">-</string>
+
+    <string name="workshop_title_13">Una iglesia acogedora en el centro de la ciudad:</string>
+    <string name="workshop_description_13">el padre Ángel con los excluidos.</string>
+
+    <string name="workshop_title_14">"No puedes servir a Dios y al dinero." ¿Es imaginable una economía según el Evangelio?</string>
+    <string name="workshop_description_14">Encuentro con el economista Enrique Lluch Frechina.</string>
+
+    <string name="workshop_title_15">"Estuve en la cárcel y viniste a visitarme" (Mt. 25,36).</string>
+    <string name="workshop_description_15">Descubrir la pastoral penitenciaria.</string>
+
+    <string name="workshop_title_16">El encuentro con Dios en los más vulnerables.</string>
+    <string name="workshop_description_16">Diálogo con el movimiento Fe y Luz y la familia espiritual de Carlos de Foucauld</string>
+
+    <string name="workshop_title_17">¿Una fuente de vida para todos? La política y la economía del agua en el mundo.</string>
+    <string name="workshop_description_17">Con Alberto González, experto en aguas.</string>
+
+    <string name="workshop_title_18">Europa: ¿fortaleza asediada u hogar de encuentro entre los pueblos?</string>
+    <string name="workshop_description_18">Encuentro con el grupo “IXE – Iniciativa de los cristianos por Europa”.</string>
+
+    <string name="workshop_title_19">Comprender el universo; tener confianza en Dios. ¿La fe puede coexistir con la ciencia?</string>
+    <string name="workshop_description_19">-</string>
+
+    <string name="workshop_title_20">Regreso a los orígenes: descubrir la belleza de la fe a través del arte y la historia de Madrid.</string>
+    <string name="workshop_description_20">Visita a "Los Jerónimos" con los voluntarios de Piedras Vivas.</string>
+
+    <string name="workshop_title_21">Transfigurando el dolor:</string>
+    <string name="workshop_description_21">taller con los voluntarios de Piedras Vivas a partir de un mosaico de Marco Rupnik.</string>
+
+    <string name="workshop_title_22">Deporte y valores humanos:</string>
+    <string name="workshop_description_22">encuentro con la entidad deportiva de inclusión social "Dragones de Lavapiés".</string>
+
+    <string name="workshop_title_23">Música religiosa flamenca cantada por el Coro Rociero “Blanca Paloma”.</string>
+    <string name="workshop_description_23">-</string>
+
+    <string name="workshop_title_24">El Museo del Prado: un itinerario de arte y belleza</string>
+    <string name="workshop_description_24">Número de plazas limitado; entradas disponibles la tarde del 28 de diciembre en Ifema, junto a "Taizé Books"</string>
+
+    <string name="workshop_title_25">¿Encontrar a Dios en el arte contemporáneo? Descubrir algunas obras de arte y visita al Museo de Arte Moderno Reina Sofía.</string>
+    <string name="workshop_description_25">Número de plazas limitado; entradas disponibles la tarde del 28 de diciembre en Ifema, junto a "Taizé Books"</string>
+
+    <string name="workshop_title_30">Dios, ¿anfitrión acogedor o juez todopoderoso? En situaciones de dolor o desesperanza, ¿qué imágenes de Dios pueden prevalecer?</string>
+    <string name="workshop_description_30">Encuentro con Katharina Opalka, una joven teóloga protestante.</string>
+
+    <string name="workshop_title_31">«Cuando sufre, el corazón se salva, vive de nuevo.»</string>
+    <string name="workshop_description_31">Itinerario de fe de Miguel de Unamuno (1864&#8211;1936), poeta y filósofo, con Miguel Ángel Malavia Martínez y un hermano de Taizé.</string>
+
+    <string name="workshop_title_34">Una invitación para descubrir la "nación del arcoiris", Sudáfrica:</string>
+    <string name="workshop_description_34">presentación de la Peregrinación de Confianza en la Ciudad del Cabo, del 25 al 29 de Septiembre de 2019.</string>
+
+    <string name="workshop_title_38">La trata de personas:</string>
+    <string name="workshop_description_38">¿esclavitud silenciada? ¿Cómo respondemos?</string>
+
+    <string name="workshop_title_39">Movilidad humana forzada: ¿cuál es nuestra respuesta?</string>
+    <string name="workshop_description_39">Encuentro con personas que trabajan con los refugiados y los migrantes.</string>
+
+    <string name="workshop_title_40">Los cristianos frente al cambio climático y la custodia de la casa común</string>
+    <string name="workshop_description_40">-</string>
+</resources>

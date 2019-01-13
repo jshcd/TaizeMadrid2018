@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_prayers"
+        android:icon="@drawable/ic_action_prayers"
+        android:title="@string/navigation_prayers" />
+
+    <item
+        android:id="@+id/navigation_workshops"
+        android:icon="@drawable/ic_action_workshop"
+        android:title="@string/title_workshops" />
+
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/ic_action_map"
+        android:title="@string/title_map" />
+
+    <!--<item
+        android:id="@+id/navigation_proposals"
+        android:icon="@drawable/ic_action_proposals"
+        android:title="@string/title_proposals" />-->
+
+</menu>

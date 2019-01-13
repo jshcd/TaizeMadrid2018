@@ -1,0 +1,117 @@
+<resources>
+    <!-- Global -->
+    <string name="app_name">Taizé Madrid 2018</string>
+    <string name="app_title">Rencontre européenne</string>
+
+    <!-- navigation -->
+    <string name="navigation_prayers">Prières</string>
+    <string name="title_workshops">Ateliers</string>
+    <string name="title_map">Carte</string>
+    <string name="title_proposals">Propositions</string>
+
+    <!-- Map -->
+    <string name="hint_search_field">Rechercher un lieu&#8230;</string>
+
+    <!-- Proposals -->
+
+
+    <!-- Workshops -->
+    <string name="stop">Arrêt</string>
+
+    <string name="date_saturday_29_december">Samedi 29 décembre </string>
+    <string name="date_sunday_30_december">Dimanche 30 décembre</string>
+
+
+    <string name="workshop_title_01">Silence et prière personnelle.</string>
+    <string name="workshop_description_01">(Possibilité d’être écouté ou de recevoir le sacrement de réconciliation.)</string>
+
+    <string name="workshop_title_02">Soyons attentifs à la présence du Christ dans nos vies :</string>
+    <string name="workshop_description_02">échange sur la prière avec le cardinal Osoro, archevêque de Madrid, et frère Alois, prieur de Taizé.</string>
+
+    <string name="workshop_title_03">Pouvons-nous guérir de nos divisions intérieures ?</string>
+    <string name="workshop_description_03">Réflexions sur la Philocalie, recueil de textes spirituels anciens de la tradition orthodoxe, avec un frère de Taizé.</string>
+
+    <string name="workshop_title_04">« Il n\'est pas bien de prendre le pain des enfants pour le jeter aux petits chiens » (Jésus de Nazareth). L\'expérience de l\'hospitalité des premiers chrétiens.</string>
+    <string name="workshop_description_04">Réflexion biblique avec un frère de Taizé.</string>
+
+    <string name="workshop_title_05">Invente avec ton Dieu l’avenir qu’il te donne – comment faire des choix dans sa vie ?</string>
+    <string name="workshop_description_05">&#8211;</string>
+
+    <string name="workshop_title_06">« Image de Dieu, image de l\'homme » : une méditation sur la foi chrétienne à partir des icônes.</string>
+    <string name="workshop_description_06">Avec le père Andrey Kordochkin de l\'Église orthodoxe russe.</string>
+
+    <string name="workshop_title_07">« Un cœur large et grand ouvert comme les sables de la mer. »</string>
+    <string name="workshop_description_07">Découverte de la vie de Thérèse d\'Avila, mystique et réformatrice du siècle d\'or espagnol, avec Inmaculada Gonzalez Villa et un frère de Taizé.</string>
+
+    <string name="workshop_title_08">Le souffle oriental :</string>
+    <string name="workshop_description_08">chants et témoignages de chrétiens de divers pays du monde arabe.</string>
+
+    <string name="workshop_title_09">La religion peut-elle promouvoir la paix mondiale ?</string>
+    <string name="workshop_description_09">Conversation entre des femmes musulmane, juive et chrétienne</string>
+
+    <string name="workshop_title_10">¿Los cuentos pueden ayudarnos a reconciliarnos con nuestra historia?</string>
+    <string name="workshop_description_10">Presentación de la cuenta cuentos Ana Garcia Castellano y de su trabajo. Seulement en Spagnol.</string>
+
+    <string name="workshop_title_11">Petite communautés provisoires :</string>
+    <string name="workshop_description_11">vivre à trois ou quatre jeunes pendant un mois, prier, s’immerger dans la réalité locale et s’engager dans des actions de solidarité.</string>
+
+    <string name="workshop_title_12">La spiritualité des chrétiens en politique : Comment participer ? Quels chemins prendre ?</string>
+    <string name="workshop_description_12">&#8211;</string>
+
+    <string name="workshop_title_13">Une église accueillante au centre ville :</string>
+    <string name="workshop_description_13">le père Angel avec les exclus</string>
+
+    <string name="workshop_title_14">« Vous ne pouvez pas servir Dieu et l’argent. » Une économie selon l’Évangile est-elle envisagable ?</string>
+    <string name="workshop_description_14">Rencontre avec l’économiste Enrique Lluch Frechina</string>
+
+    <string name="workshop_title_15">« J’étais en prison, et vous êtes venus jusqu’à moi ! » (Mt 25,36)</string>
+    <string name="workshop_description_15">Découvrir la pastorale des prisons.</string>
+
+    <string name="workshop_title_16">Rencontrer Dieu dans les plus vulnérables.</string>
+    <string name="workshop_description_16">Dialogue avec le mouvement Foi et Lumière et la famille spirituelle de Charles de Foucauld</string>
+
+    <string name="workshop_title_17">Une source de vie pour tous ? La politique et l\'économie de l\'eau dans le monde.</string>
+    <string name="workshop_description_17">Avec Alberto Gonzalez, spécialiste des enjeux autour de l\'eau.</string>
+
+    <string name="workshop_title_18">L\'Europe: forteresse assiégée ou maison de rencontre entre peuples ?</string>
+    <string name="workshop_description_18">Échange avec le groupe « IXE – Initiative de chrétiens pour l\’Europe ».</string>
+
+    <string name="workshop_title_19">Comprendre l\'univers, avoir confiance en Dieu. La foi peut-elle coexister avec la science ?</string>
+    <string name="workshop_description_19">&#8211;</string>
+
+    <string name="workshop_title_20">Retour aux sources : découvrir la beauté de la foi à travers l\'art et l\'histoire de Madrid.</string>
+    <string name="workshop_description_20">Visite de « Los Jerónimos » avec des volontaires de « Pierres vivantes ».</string>
+
+    <string name="workshop_title_21">Transfigurer la douleur :</string>
+    <string name="workshop_description_21">atelier pratique avec les volontaires de « Pierres Vivantes » à partir d\'une mosaïque de Marko Rupnik</string>
+
+    <string name="workshop_title_22">Sport et valeurs humaines :</string>
+    <string name="workshop_description_22">rencontre avec la société sportive d\'inclusion sociale « Les Dragons de Lavapiés ».</string>
+
+    <string name="workshop_title_23">Musique religieuse flamenco chantée par la chorale « Blanca Paloma »</string>
+    <string name="workshop_description_23">&#8211;</string>
+
+    <string name="workshop_title_24">Le musée du Prado : un itinéraire d\'art et de beauté</string>
+    <string name="workshop_description_24">Nombre de places limité; billets disponibles le soir du 28 décembre à Ifema, près du « Taizé Books ».</string>
+
+    <string name="workshop_title_25">Trouver Dieu dans l\'art contemporain ? Découvert de quelques œuvres et visite du Musée d\'Art Moderne de Reina Sofia.</string>
+    <string name="workshop_description_25">Nombre de places limité; billets disponibles le soir du 28 décembre à Ifema, près du « Taizé Books ».</string>
+
+    <string name="workshop_title_30">Dieu, hôte accueillant ou juge tout-puissant ? Dans des situations désespérantes et douloureuses, quelles images de Dieu l’emportent ?</string>
+    <string name="workshop_description_30">Rencontre avec Katharina Opalka, jeune théologienne protestante.</string>
+
+    <string name="workshop_title_31">« Quand il souffre le cæur se sauve, il recommence à vivre. »</string>
+    <string name="workshop_description_31">Le chemin de foi de Miguel de Unamuno (1864&#8211;1936), poète et philosophe, avec Miguel Ángel Malavia Martínez et un frère de Taizé.</string>
+
+    <string name="workshop_title_34">Une invitation pour découvrir la « nation arc-en-ciel » de l\'Afrique du Sud ;</string>
+    <string name="workshop_description_34">présentation du pèlerinage de confiance au Cap du 25 au 29 Septembre 2019.</string>
+
+    <string name="workshop_title_38">La traite des personnes, esclavage caché ? Comment y répondre ?</string>
+    <string name="workshop_description_38">&#8211;</string>
+
+    <string name="workshop_title_39">Mobilité humaine forcée : quelle est notre réponse ?</string>
+    <string name="workshop_description_39">Rencontre avec des personnes engagées auprès des réfugiés et des migrants.</string>
+
+    <string name="workshop_title_40">Les chrétiens face au changement climatique et le souci de notre maison commune</string>
+    <string name="workshop_description_40">&#8211;</string>
+</resources>

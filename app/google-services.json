@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "935395963023",
+    "firebase_url": "https://taizemadrid-2018.firebaseio.com",
+    "project_id": "taizemadrid-2018",
+    "storage_bucket": "taizemadrid-2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935395963023:android:b9aac4163187c453",
+        "android_client_info": {
+          "package_name": "fr.taize.madrid2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935395963023-ardnmk626lbt53m1u34dcinvqmropitq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.taize.madrid2018",
+            "certificate_hash": "f8cba83a5e68180bb30993c78cedbd9cd295fe3b"
+          }
+        },
+        {
+          "client_id": "935395963023-2calbgge4ejs4bh9gk85hvs16sbn6rqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIDq8ibRNVik9Jy6sy7VBRvGOSIUgAPt4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935395963023-2calbgge4ejs4bh9gk85hvs16sbn6rqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

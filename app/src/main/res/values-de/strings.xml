@@ -1,0 +1,114 @@
+<resources>
+    <!-- Global -->
+    <string name="app_name">Taizé Madrid 2018</string>
+    <string name="app_title">Europäisches Jugendtreffen</string>
+
+    <!-- Navigation -->
+    <string name="navigation_prayers">Gebete</string>
+    <string name="title_workshops">Thementreffen</string>
+    <string name="title_map">Karte</string>
+    <string name="title_proposals">Vorschläge</string>
+
+    <!-- Map -->
+    <string name="hint_search_field">Einen Ort finden&#8230;</string>
+
+    <!-- Workshops -->
+    <string name="stop">Haltestelle</string>
+
+    <string name="date_saturday_29_december">Samstag, 29. Dezember</string>
+    <string name="date_sunday_30_december">Sonntag, 30. Dezember</string>
+
+    <string name="workshop_title_01">Eine Zeit der Stille,</string>
+    <string name="workshop_description_01">mit Gelegenheit zum persönlichen Gespräch und zum Empfang des Sakraments der Versöhnung</string>
+
+    <string name="workshop_title_02">Die Gegenwart Christi in unserem Leben entdecken – das Gebet:</string>
+    <string name="workshop_description_02">Gespräch mit Kardinal Carlos Osoro, Erzbischof von Madrid, und Frère Alois, Prior der Communauté von Taizé</string>
+
+    <string name="workshop_title_03">Können unsere inneren Spaltungen heilen?</string>
+    <string name="workshop_description_03">Gedanken zur Philokalie, einer Sammlung geistlicher Texte aus der orthodoxen Tradition, mit einem Bruder der Communauté von Taizé</string>
+
+    <string name="workshop_title_04">„Es ist nicht recht, das Brot den Kindern wegzunehmen und den Hunden vorzuwerfen.“ (Jesus von Nazaret).</string>
+    <string name="workshop_description_04">Die Gastfreundschaft der ersten Christen. Bibeleinführung mit einem Bruder der Communauté von Taizé</string>
+
+    <string name="workshop_title_05">Erfinde mit deinem Gott die Zukunft, die er dir schenkt – wie im Leben Entscheidungen treffen?</string>
+    <string name="workshop_description_05">-</string>
+
+    <string name="workshop_title_06">„Das Bild Gottes, das Bild des Menschen“: Gedanken über den christlichen Glauben anhand von Symbolen.</string>
+    <string name="workshop_description_06">Mit Pfarrer Andrey Kordochkin von der russisch-orthodoxen Kirche.</string>
+
+    <string name="workshop_title_07">„Ein Herz so weit und offen wie der Sand des Meeres.“</string>
+    <string name="workshop_description_07">Theresa von Avila, Mystikerin und Reformerin des Goldenen Zeitalters von Spanien; mit Inmaculada Gonzalez Villa und einem Bruder der Communauté von Taizé</string>
+
+    <string name="workshop_title_08"> Ein Hauch des Orients:</string>
+    <string name="workshop_description_08">Lieder und Zeugnisse von Christen aus verschiedenen Ländern der arabischen Welt.</string>
+
+    <string name="workshop_title_09">Kann Religion den Weltfrieden fördern?</string>
+    <string name="workshop_description_09">Gespräch zwischen muslimischen, jüdischen und christlichen Frauen</string>
+
+    <string name="workshop_title_10">¿Los cuentos pueden ayudarnos a reconciliarnos con nuestra historia?</string>
+    <string name="workshop_description_10">Presentación de la cuenta cuentos Ana García Castellano y de su trabajo. Auf Spanisch!</string>
+
+    <string name="workshop_title_11">„Kleine Provisorische Gemeinschaften“:</string>
+    <string name="workshop_description_11">einen Monat lang zu dritt oder viert zusammenleben, gemeinsam beten, sich in der Realität vor Ort einbringen und Solidaritätsaktionen unterstützen.</string>
+
+    <string name="workshop_title_12">Christliche Spiritualität in der Politik: Wie mitmachen? Welchen Weg einschlagen?</string>
+    <string name="workshop_description_12">-</string>
+
+    <string name="workshop_title_13">Eine für alle offene Kirche im Stadtzentrum:</string>
+    <string name="workshop_description_13">Pater Angel mit Menschen am Rand der Gesellschaft</string>
+
+    <string name="workshop_title_14">„Du kannst nicht Gott und dem Geld dienen.“ Ist eine Wirtschaft nach dem Evangelium denkbar?</string>
+    <string name="workshop_description_14">Begegnung mit dem Wirtschaftswissenschaftler Enrique Lluch Frechina</string>
+
+    <string name="workshop_title_15">„Ich war im Gefängnis, und ihr seid zu mir gekommen! " (Matthäus 25,36).</string>
+    <string name="workshop_description_15">Die Gefängnisseelsorge kennenlernen</string>
+
+    <string name="workshop_title_16">Gott in den Schwächsten begegnen.</string>
+    <string name="workshop_description_16">Gespräch mit der Bewegung „Glaube und Licht“ und der geistlichen Familie von Charles de Foucauld</string>
+
+    <string name="workshop_title_17">Eine Quelle des Lebens für alle? Politik und Wasserwirtschaft auf der Welt.</string>
+    <string name="workshop_description_17">Mit Alberto Gonzalez, Spezialist für Wasserfragen.</string>
+
+    <string name="workshop_title_18">Europa: belagerte Festung oder Begegnungsstätte der Völker?</string>
+    <string name="workshop_description_18">Begegnung mit der Gruppe „IXE - Christian Initiative for Europe“.</string>
+
+    <string name="workshop_title_19">„Das Universum verstehen, Gott vertrauen.“ Können Glaube und Wissenschaft nebeneinander bestehen?</string>
+    <string name="workshop_description_19">-</string>
+
+    <string name="workshop_title_20">Zurück zu den Wurzeln: Die Schönheit des Glaubens durch die Kunst und die Geschichte von Madrid kennenlernen.</string>
+    <string name="workshop_description_20">Besuch des Klosters „Los Jerónimos“ mit Freiwilligen von „Pierres vivantes“ (Lebendige Steine).</string>
+
+    <string name="workshop_title_21">Den Schmerz verwandeln:</string>
+    <string name="workshop_description_21">praktischer Workshop mit Freiwilligen von „Pierres vivantes“ (Lebendige Steine) anhand eines Mosaiks von Marco Rupnik.</string>
+
+    <string name="workshop_title_22">Sport und menschliche Werte:</string>
+    <string name="workshop_description_22">Treffen mit dem inklusiven Sportverein „Die Drachen von Lavapiés“.</string>
+
+    <string name="workshop_title_23">Geistliche Flamenco-Musik, mit dem Chor „Blanca Paloma“.</string>
+    <string name="workshop_description_23">-</string>
+
+    <string name="workshop_title_24">Das Prado-Museum: ein Weg der Kunst und der Schönheit</string>
+    <string name="workshop_description_24">Begrenzte Anzahl von Plätzen; Tickets am Nachmittag des 28. Dezember in Ifema neben "Taizé Books" erhältlich</string>
+
+    <string name="workshop_title_25">Gott in der modernen Kunst finden? Besuch des Museums für Moderne Kunst Reina Sofia.</string>
+    <string name="workshop_description_25">Begrenzte Anzahl von Plätzen; Tickets am Nachmittag des 28. Dezember in Ifema neben "Taizé Books" erhältlich</string>
+
+    <string name="workshop_title_30">Gott, Gastfreund oder allmächtiger Richter? Wie stellen wir uns Gott in einer schmerzhaften und verzweifelten Situation vor?</string>
+    <string name="workshop_description_30">Begegnung mit der jungen evangelischen Theologin Katharina Opalka</string>
+
+    <string name="workshop_title_31">„Wenn er leidet, rettet sich das Herz und lebt wieder auf.“</string>
+    <string name="workshop_description_31">Der Lebensweg des spanischen Dichters und Philosophen Miguel de Unamuno (1864&#8211;1936); mit Miguel Ángel Malavia Martínez und einem Bruder der Communauté von Taizé.</string>
+
+    <string name="workshop_title_34">Südafrika, die „Regenbogennation“ entdecken:</string>
+    <string name="workshop_description_34">Die Etappe des „Pilgerwegs des Vertrauens“ vom 25. bis 29. September 2019 in Kapstadt.</string>
+
+    <string name="workshop_title_38">Menschenhandel, versteckte Sklaverei</string>
+    <string name="workshop_description_38">Was kann man dagegen tun?</string>
+
+    <string name="workshop_title_39">Zur Mobilität gezwungen:</string>
+    <string name="workshop_description_39">Begegnung mit Menschen, die sich um Flüchtlinge und Migranten kümmern.</string>
+
+    <string name="workshop_title_40">Christen und Klimawandel: Die Sorge um unser gemeinsames Zuhause</string>
+    <string name="workshop_description_40">-</string>
+
+</resources>

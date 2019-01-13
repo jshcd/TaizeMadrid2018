@@ -1,0 +1,300 @@
+<resources>
+    <!-- Global -->
+    <string name="app_name">Taizé Madrid 2018</string>
+    <string name="app_title">European Meeting</string>
+
+    <!-- navigation -->
+    <string name="navigation_prayers">Prayers</string>
+    <string name="title_workshops">Workshops</string>
+    <string name="title_map">Map</string>
+    <string name="title_proposals">Proposals</string>
+
+    <!-- Map -->
+    <string name="hint_search_field">Search a place&#8230;</string>
+
+    <!-- Proposals -->
+    <!--
+    <string name="first_proposal_title">First proposal</string>
+    <string name="second_proposal_title">Second proposal</string>
+    <string name="third_proposal_title">Third proposal</string>
+    <string name="first_proposal_text"><![CDATA[The first proposal text is a really long and I want to check <br/>if it is well <strong>formatted</strong>. <a href="https://taizemadrid.es">So that maybe some words</a> are cut...]]></string>
+    <string name="second_proposal_text">Second proposal text</string>
+    <string name="third_proposal_text">Third proposal text</string>
+    -->
+
+    <!-- Places -->
+    <string name="place_01" translatable="false">Place 1</string>
+
+
+    <!-- Oraciones a las 13h el 29 y 31 de diciembre -->
+    <string name="place_catedral_name" translatable="false">Catedral de Santa María la Real de la Almudena</string>
+    <string name="place_catedral_address" translatable="false">Calle de Bailén 10, 28013 Madrid</string>
+    <string name="place_catedral_coordinates" translatable="false">40.4155139,-3.714216</string>
+
+    <string name="place_cp16_name" translatable="false">CP16- Iglesia de Santa Cruz</string>
+    <string name="place_cp16_address" translatable="false">Calle de Atocha 6, 28012 Madrid</string>
+    <string name="place_cp16_coordinates" translatable="false">40.4145991,-3.705274</string>
+
+    <string name="place_cp17_name" translatable="false"> CP17- Iglesia Nuestra Señora del Carmen y San Luis</string>
+    <string name="place_cp17_address" translatable="false">Calle del Carmen 10, 28013 Madrid </string>
+    <string name="place_cp17_coordinates" translatable="false">40.4182772,-3.7042101</string>
+
+    <string name="place_cp18_name" translatable="false">CP18- Iglesia San Ginés de Arlés</string>
+    <string name="place_cp18_address" translatable="false">Calle del Arenal 13, 28001 Madrid </string>
+    <string name="place_cp18_coordinates" translatable="false">40.417231,-3.70711</string>
+
+    <string name="place_cp01_name" translatable="false">CP01- Iglesia Colegiata de San Isidro el Real</string>
+    <string name="place_cp01_address" translatable="false">Calle de Toledo 37, 28005 Madrid </string>
+    <string name="place_cp01_coordinates" translatable="false">40.4126577,-3.7072807</string>
+
+    <string name="place_steresa_y_sjose_name" translatable="false">Iglesia de Santa Teresa y San José (29.12)</string>
+    <string name="place_steresa_y_sjose_address" translatable="false">Plaza de España, 14, 28008 Madrid</string>
+    <string name="place_steresa_y_sjose_coordinates" translatable="false">40.4224629,-3.7148914</string>
+
+    <string name="place_sfelgrande_name" translatable="false">Basílica de San Francisco El Grande (31.12)</string>
+    <string name="place_sfelgrande_address" translatable="false">Calle San Buenaventura 1, 28005 Madrid</string>
+    <string name="place_sfelgrande_coordinates" translatable="false">40.4105064,-3.7143236</string>
+
+    <string name="place_ep06_name" translatable="false">EP06- Iglesia de San Millán y San Cayetano</string>
+    <string name="place_ep06_address" translatable="false">Calle de Embajadores 15, 28012 Madrid </string>
+    <string name="place_ep06_coordinates" translatable="false">40.4095647,-3.7057617 </string>
+
+    <string name="place_basilicasmiguel_name" translatable="false">Basílica pontificia de San Miguel</string>
+    <string name="place_basilicasmiguel_address" translatable="false">Calle de San Justo 4, 28005 Madrid</string>
+    <string name="place_basilicasmiguel_coordinates" translatable="false">40.4142124,-3.7096839</string>
+
+    <string name="place_cp15_name" translatable="false">CP15- Iglesia San Sebastián</string>
+    <string name="place_cp15_address" translatable="false">Calle de Atocha 39, 28012 Madrid </string>
+    <string name="place_cp15_coordinates" translatable="false"> 40.4135799,-3.7014348</string>
+
+    <string name="place_cp02_name" translatable="false">CP02- Iglesia de San Andrés Apóstol</string>
+    <string name="place_cp02_address" translatable="false">Plaza de San Andrés 1, 28005 Madrid</string>
+    <string name="place_cp02_coordinates" translatable="false">40.411965,-3.7114938</string>
+
+    <!-- Workshops -->
+
+    <string name="stop">Stop</string>
+
+    <string name="date_saturday_29_december">Saturday, December 29</string>
+    <string name="date_sunday_30_december">Sunday, December 30</string>
+
+    <string name="workshop_title_01">Silence and personal prayer.</string>
+    <string name="workshop_description_01">Possibility to be listened to and to receive the sacrament of reconciliation</string>
+    <string name="workshop_code_01" translatable="false">EP06</string>
+    <string name="workshop_place_01" translatable="false">Iglesia de San Millán y San Cayetano, Calle de Embajadores 15</string>
+    <string name="workshop_subway_01" translatable="false">M5 – Stop: La Latina / M1 – Stop: Tirso de Molina</string>
+    <string name="workshop_bus_01" translatable="false">27 – Stop: Embajadores</string>
+
+
+    <string name="workshop_title_02">Make room for Christ in our lives:</string>
+    <string name="workshop_description_02">conversation on prayer with Cardinal Osoro, archbishop of Madrid, and Brother Alois of Taizé.</string>
+    <string name="workshop_code_02" translatable="false">MP01</string>
+    <string name="workshop_place_02" translatable="false">Catedral de la Almudena, Calle de Bailén 10</string>
+    <string name="workshop_subway_02" translatable="false">M2, M5 – Stop: Ópera</string>
+    <string name="workshop_bus_02" translatable="false">Bus 3, 148 – Stop: Palacio Real</string>
+
+
+    <string name="workshop_title_03">Can we heal from our inner divisions?</string>
+    <string name="workshop_description_03">Reflections on the Philokalia, a compilation of ancient spiritual texts from the Eastern Orthodox tradition, with a Taizé brother.</string>
+    <string name="workshop_code_03" translatable="false">BP08</string>
+    <string name="workshop_place_03" translatable="false">Iglesia de San Luis de los Franceses, Calle de Lagasca 89</string>
+    <string name="workshop_subway_03" translatable="false">M5, M9 – Stop: Núñez de Balboa</string>
+    <string name="workshop_bus_03" translatable="false"></string>
+
+    <string name="workshop_title_04">"It is not right to take the children’s bread and throw it to the little dogs" (Jesus of Nazareth). The early Christians’ experience of hospitality.</string>
+    <string name="workshop_description_04">Bible reflection with a Taizé brother.</string>
+    <string name="workshop_code_04" translatable="false">BP12</string>
+    <string name="workshop_place_04" translatable="false">Iglesia de San Manuel y San Benito, Calle de Alcalá 83</string>
+    <string name="workshop_subway_04" translatable="false">M2: Retiro</string>
+    <string name="workshop_bus_04" translatable="false"></string>
+
+    <string name="workshop_title_05">Invent with your God the future he gives to you - how to make choices in life?</string>
+    <string name="workshop_description_05">-</string>
+    <string name="workshop_code_05" translatable="false">CP02</string>
+    <string name="workshop_place_05" translatable="false">Iglesia de San Andrés Apóstol, Plaza de San Andrés 1</string>
+    <string name="workshop_subway_05" translatable="false">M5 – Stop: La Latina / M1 – Stop: Tirso de Molina</string>
+    <string name="workshop_bus_05" translatable="false"></string>
+
+    <string name="workshop_title_06">"Image of God, image of man": a meditation on the Christian faith through icons.</string>
+    <string name="workshop_description_06">With Father Andrey Kordochkin of the Russian Orthodox Church.</string>
+    <string name="workshop_code_06" translatable="false">WW02</string>
+    <string name="workshop_place_06" translatable="false">Auditorio "Alfa y Omega", Calle de la Pasa 3</string>
+    <string name="workshop_subway_06" translatable="false">M1 – Stop : Tirso de Molina / M5 – Stop : La Latina</string>
+    <string name="workshop_bus_06" translatable="false"></string>
+
+    <string name="workshop_title_07">"A heart wide open like the sands of the sea."</string>
+    <string name="workshop_description_07">Discovering the life of Teresa of Avila, mystic and reformer of the Spanish golden age, with Inmaculada Gonzalez Villa and a Taizé brother.</string>
+    <string name="workshop_code_07" translatable="false">GP09</string>
+    <string name="workshop_place_07" translatable="false">Nuestra Señora del Buen Suceso (auditorio), Calle de la Princesa 43</string>
+    <string name="workshop_subway_07" translatable="false">M3 – Stop: Arguëlles</string>
+    <string name="workshop_bus_07" translatable="false"></string>
+
+    <string name="workshop_title_08">A breath of life from the East:</string>
+    <string name="workshop_description_08">songs and experiences of Christians from different countries of the Arab world.</string>
+    <string name="workshop_code_08" translatable="false">CP15</string>
+    <string name="workshop_place_08" translatable="false">Iglesia de San Sebastián, Calle de Atocha 39</string>
+    <string name="workshop_subway_08" translatable="false">M1 – Stop: Antón Martín / M2 – Stop: Sol</string>
+    <string name="workshop_bus_08" translatable="false">Bus 27 – Stop: Neptuno</string>
+
+    <string name="workshop_title_09">Can religion promote peace in the world?</string>
+    <string name="workshop_description_09">Conversation between Jewish, Christian and Muslim women</string>
+    <string name="workshop_code_09" translatable="false">CP16</string>
+    <string name="workshop_place_09" translatable="false">Iglesia de la Santa Cruz, Calle de Atocha 6</string>
+    <string name="workshop_subway_09" translatable="false">M1, M2, M3 – Stop: Sol</string>
+    <string name="workshop_bus_09" translatable="false"></string>
+
+    <string name="workshop_title_10">¿Los cuentos pueden ayudarnos a reconciliarnos con nuestra historia?</string>
+    <string name="workshop_description_10">Presentación de la cuenta cuentos Ana Garcia Castellano y de su trabajo. Only in Spanish.</string>
+    <string name="workshop_code_10" translatable="false">EP01</string>
+    <string name="workshop_place_10" translatable="false">Nuestra Señora de Europa, Paseo del Doctor Vallejo Nágera 23</string>
+    <string name="workshop_subway_10" translatable="false">M3 – Stop: Embajadores / M5 – Stop: Acacias</string>
+    <string name="workshop_bus_10" translatable="false">Bus 34 – Stop: Acacias</string>
+
+    <string name="workshop_title_11">Small provisional communities:</string>
+    <string name="workshop_description_11">living for a month with three or four others in a neighborhood to share its life, pray and take part in acts of solidarity.</string>
+    <string name="workshop_code_11" translatable="false">WW03</string>
+    <string name="workshop_place_11" translatable="false">Iglesia de San Pedro el Viejo, Calle del Nuncio 14</string>
+    <string name="workshop_subway_11" translatable="false">M1 – Stop: Tirso de Molina / M2 – Stop: Ópera / M5 – Stop: La Latina</string>
+    <string name="workshop_bus_11" translatable="false"></string>
+
+    <string name="workshop_title_12">The spirituality of Christians in politics.</string>
+    <string name="workshop_description_12">How to participate? What paths to take?</string>
+    <string name="workshop_code_12" translatable="false">BP02</string>
+    <string name="workshop_place_12" translatable="false">Iglesia de Santa María del Monte Carmelo, Calle de Ayala 37</string>
+    <string name="workshop_subway_12" translatable="false">M5 – Stop: Núñez de Balboa</string>
+    <string name="workshop_bus_12" translatable="false">Bus 74 – Stop: Velázquez - Ayala</string>
+
+    <string name="workshop_title_13">A welcoming church in the city centre:</string>
+    <string name="workshop_description_13">Father Angel with the excluded</string>
+    <string name="workshop_code_13" translatable="false">APP01</string>
+    <string name="workshop_place_13" translatable="false">Iglesia de San Antón, Calle de Hortaleza 63</string>
+    <string name="workshop_subway_13" translatable="false">M5 – Stop: Chueca</string>
+    <string name="workshop_bus_13" translatable="false">Bus 5 – Stop: Chueca</string>
+
+    <string name="workshop_title_14">“You cannot serve both God and money.” Is an economy according to the Gospel imaginable?</string>
+    <string name="workshop_description_14">Meeting with the economist Enrique Lluch Frechina</string>
+    <string name="workshop_code_14" translatable="false">GP13</string>
+    <string name="workshop_place_14" translatable="false">Parroquia del Perpetuo Socorro (auditorio), Calle Manuel Silvela 14</string>
+    <string name="workshop_subway_14" translatable="false">M5 – Stop: Alonso Martinez / M2, M4 – Stop: San Bernardo</string>
+    <string name="workshop_bus_14" translatable="false">Bus 3 – Stop: Santa Engracia - Caracas / Bus 147 – Stop: Luchana</string>
+
+    <string name="workshop_title_15">"I was in prison and you came to see me" (Mt 25:36).</string>
+    <string name="workshop_description_15">Discovering prison ministry.</string>
+    <string name="workshop_code_15" translatable="false">BP05</string>
+    <string name="workshop_place_15" translatable="false">Iglesia de Nuestra Señora del Pilar, Calle de Juan Bravo 42</string>
+    <string name="workshop_subway_15" translatable="false">M5, M6 – Stop: Diego de León / M9 – Stop: Núñez de Balboa</string>
+    <string name="workshop_bus_15" translatable="false"></string>
+
+    <string name="workshop_title_16">Encountering God in the most vulnerable.</string>
+    <string name="workshop_description_16">Meeting with the Faith and Light Movement and the spiritual family of Charles de Foucauld</string>
+    <string name="workshop_code_16" translatable="false">BP06</string>
+    <string name="workshop_place_16" translatable="false">Iglesia de Nuestra Señora del Rosario de Filipinas (cripta), Calle del Conde de Peñalver 40</string>
+    <string name="workshop_subway_16" translatable="false">M4 – Stop: Lista / M5 – Stop: Diego de León / M2 – Stop: Goya</string>
+    <string name="workshop_bus_16" translatable="false"></string>
+
+    <string name="workshop_title_17">A wellspring of life for all? The politics and economics of water in the world.</string>
+    <string name="workshop_description_17">With Alberto Gonzalez, a specialist on questions of water.</string>
+    <string name="workshop_code_17" translatable="false">CP03</string>
+    <string name="workshop_place_17" translatable="false">Iglesia de San Hermenegildo, Calle del Fósforo 4</string>
+    <string name="workshop_subway_17" translatable="false">M10 – Stop: Príncipe Pío / M6 – Stop: Puerta del Angel / M5 – Stop: Puerta de Toledo</string>
+    <string name="workshop_bus_17" translatable="false">Bus 50 – Stop: Juan Duque - Moreno Nieto / Bus 31 – Stop: Puente de Segovia</string>
+
+    <string name="workshop_title_18">Europe: besieged fortress or home where all peoples meet?</string>
+    <string name="workshop_description_18">An exchange with the group “IXE – Initiative of Christians for Europe.”</string>
+    <string name="workshop_code_18" translatable="false">CP01</string>
+    <string name="workshop_place_18" translatable="false">Iglesia de San Isidro, Calle de Toledo 37</string>
+    <string name="workshop_subway_18" translatable="false">M5 – Stop: La Latina / M1 – Stop: Tirso de Molina</string>
+    <string name="workshop_bus_18" translatable="false"></string>
+
+    <string name="workshop_title_19">Understanding the universe, trusting in God. How is faith related to science?</string>
+    <string name="workshop_description_19">-</string>
+    <string name="workshop_code_19" translatable="false">BP06</string>
+    <string name="workshop_place_19" translatable="false">Iglesia de Nuestra Señora del Rosario de Filipinas, Calle del Conde de Peñalver 40</string>
+    <string name="workshop_subway_19" translatable="false">M4 – Stop: Lista / M5 – Stop: Diego de León / M2 – Stop: Goya</string>
+    <string name="workshop_bus_19" translatable="false"></string>
+
+    <string name="workshop_title_20">Going back to the roots: discover the beauty of faith through art and the history of Madrid.</string>
+    <string name="workshop_description_20">A visit to "Los Jerónimos" with volunteers of "Living Stones."</string>
+    <string name="workshop_code_20" translatable="false">CP23</string>
+    <string name="workshop_place_20" translatable="false">Iglesia de San Jerónimo el Real, Calle Moreto 4</string>
+    <string name="workshop_subway_20" translatable="false">M2 – Stop: Banco de España</string>
+    <string name="workshop_bus_20" translatable="false">Bus 3 – Stop: Carrera de San Jerónimo - Cedaceros / Bus 27 – Stop: Neptuno</string>
+
+    <string name="workshop_title_21">The transfiguration of pain:</string>
+    <string name="workshop_description_21">a practical workshop with volunteers of "Living Stones" on a mosaic by Marco Rupnik.</string>
+    <string name="workshop_code_21" translatable="false">APP02</string>
+    <string name="workshop_place_21" translatable="false">Capilla del hospital Beata María Ana (entrada por la Calle Alcalde Sainz de Baranda)</string>
+    <string name="workshop_subway_21" translatable="false">M6 – Stop: O\'Donnell / M9 – Stop: Ibiza</string>
+    <string name="workshop_bus_21" translatable="false">Bus 2 – Stop: Hospital Beata María Ana</string>
+
+    <string name="workshop_title_22">Sports and human values:</string>
+    <string name="workshop_description_22">meeting with the sports organization for social inclusion "The Dragons of Lavapiés."</string>
+    <string name="workshop_code_22" translatable="false">EP34</string>
+    <string name="workshop_place_22" translatable="false">Parroquia de Nuestra Señora de las Delicias, Paseo de las Delicias 61</string>
+    <string name="workshop_subway_22" translatable="false">M3 – Stop : Delicias</string>
+    <string name="workshop_bus_22" translatable="false"></string>
+
+    <string name="workshop_title_23">Flamenco religious music sung by the choir “Blanca Paloma”</string>
+    <string name="workshop_description_23">-</string>
+    <string name="workshop_code_23" translatable="false">APP03</string>
+    <string name="workshop_place_23" translatable="false">Iglesia de San Francisco el Grande, Calle San Buenaventura 1</string>
+    <string name="workshop_subway_23" translatable="false">M5 – Stop: La Latina / M1 – Stop: Tirso de Molina</string>
+    <string name="workshop_bus_23" translatable="false">Bus 3 – Stop: San Francisco el Grande</string>
+
+    <string name="workshop_title_24">The Prado Museum: an itinerary of art and beauty</string>
+    <string name="workshop_description_24">Limited number of places; tickets available in the evening of 28 December at IFEMA, near “Taizé Books”.</string>
+    <string name="workshop_code_24" translatable="false">APP04</string>
+    <string name="workshop_place_24" translatable="false">Museo del Prado, Paseo del Prado</string>
+    <string name="workshop_subway_24" translatable="false">M1 – Stop: Atocha / M2 – Stop: Banco de España</string>
+    <string name="workshop_bus_24" translatable="false">Bus 27 – Stop: Neptuno</string>
+
+    <string name="workshop_title_25">Finding God in contemporary art? Discovering some artworks and visit to the Museum of Modern Art Reina Sofia.</string>
+    <string name="workshop_description_25">Limited number of places; tickets available in the evening of 28 December at IFEMA, near “Taizé Books”.</string>
+    <string name="workshop_code_25" translatable="false">APP05</string>
+    <string name="workshop_place_25" translatable="false">Museo Nacional Centro de Arte Reina Sofía, Calle de Santa Isabel 52</string>
+    <string name="workshop_subway_25" translatable="false">M1 – Stop: Atocha</string>
+    <string name="workshop_bus_25" translatable="false">Bus 27 – Stop: Reina Sofia</string>
+
+    <string name="workshop_title_30">God, the welcoming host or the almighty judge? In hopeless and painful situations, which images of God can prevail?</string>
+    <string name="workshop_description_30">Meeting with Katharina Opalka, young Protestant theologian.</string>
+    <string name="workshop_code_30" translatable="false">WW02</string>
+    <string name="workshop_place_30" translatable="false">Auditorio "Alfa y Omega", Calle de la Pasa 3</string>
+    <string name="workshop_subway_30" translatable="false">M1 – Stop : Tirso de Molina / M5 – Stop : La Latina</string>
+    <string name="workshop_bus_30" translatable="false"></string>
+
+    <string name="workshop_title_31">"When it suffers the heart is saved; it begins to live again."</string>
+    <string name="workshop_description_31">The faith journey of Miguel de Unamuno (1864&#8211;1936), poet and philosopher, with Miguel Ángel Malavia Martínez and a Taizé brother.</string>
+    <string name="workshop_code_31" translatable="false">GP09</string>
+    <string name="workshop_place_31" translatable="false">Nuestra Señora del Buen Suceso (auditorio), Calle de la Princesa 43</string>
+    <string name="workshop_subway_31" translatable="false">M3 – Stop: Arguëlles</string>
+    <string name="workshop_bus_31" translatable="false"></string>
+
+    <string name="workshop_title_34">An invitation to discover the “rainbow nation” of South Africa;</string>
+    <string name="workshop_description_34">introduction to the Pilgrimage of Trust in Cape Town, September 25&#8211;29, 2019.</string>
+    <string name="workshop_code_34" translatable="false">CP03</string>
+    <string name="workshop_place_34" translatable="false">Iglesia de San Hermenegildo (auditorio), Calle del Fósforo 4</string>
+    <string name="workshop_subway_34" translatable="false">M10 – Stop: Príncipe Pío / M6 – Stop: Puerta del Angel / M5 – Stop: Puerta de Toledo</string>
+    <string name="workshop_bus_34" translatable="false">Bus 50 – Stop: Juan Duque - Moreno Nieto / Bus 31 – Stop: Puente de Segovia</string>
+
+    <string name="workshop_title_38">Human trafficking, silent slavery? How can we respond?</string>
+    <string name="workshop_description_38">-</string>
+    <string name="workshop_code_38" translatable="false">BP06</string>
+    <string name="workshop_place_38" translatable="false">Iglesia de Nuestra Señora del Rosario de Filipinas (cripta), Calle del Conde de Peñalver 40</string>
+    <string name="workshop_subway_38" translatable="false">M4 – Stop: Lista / M5 – Stop: Diego de León / M2 – Stop: Goya</string>
+    <string name="workshop_bus_38" translatable="false"></string>
+
+    <string name="workshop_title_39">Forced human mobility: what is our response?</string>
+    <string name="workshop_description_39">Meeting with people involved with migrants and refugees.</string>
+    <string name="workshop_code_39" translatable="false">BP05</string>
+    <string name="workshop_place_39" translatable="false">Iglesia de Nuestra Señora del Pilar, Calle de Juan Bravo 42</string>
+    <string name="workshop_subway_39" translatable="false">M5, M6 – Stop: Diego de León / M9 – Stop: Núñez de Balboa</string>
+    <string name="workshop_bus_39" translatable="false"></string>
+
+    <string name="workshop_title_40">Christians faced with climate change and care for our common home</string>
+    <string name="workshop_description_40">-</string>
+    <string name="workshop_code_40" translatable="false">CP03</string>
+    <string name="workshop_place_40" translatable="false">Iglesia de San Hermenegildo, Calle del Fósforo 4</string>
+    <string name="workshop_subway_40" translatable="false">M10 – Stop: Príncipe Pío / M6 – Stop: Puerta del Angel / M5 – Stop: Puerta de Toledo</string>
+    <string name="workshop_bus_40" translatable="false">Bus 50 – Stop: Juan Duque - Moreno Nieto / Bus 31 – Stop: Puente de Segovia</string>
+
+</resources>
